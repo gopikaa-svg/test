@@ -1,0 +1,17 @@
+list=[1,2,3,4,5]
+print(list[0])
+print(list)
+colours=["blue","red","yellow"]
+print(colours)
+print(colours[0])
+print(colours[1])
+print(colours[2])
+colours[2]="black"
+print(colours)
+colours.append("white")
+print(colours)
+colours.insert(2,"violet")
+print(colours)
+colours.remove("red")
+colours.pop(1)
+print(colours)

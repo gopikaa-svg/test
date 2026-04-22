@@ -1,0 +1,11 @@
+animals=["cat","dog","goat"]
+print(animals)
+print(animals[1])
+animals[1]="deer"
+print(animals)
+animals.pop(1)
+print(animals)
+animals.append("cow")
+print(animals)
+animals.remove("cow")
+print(animals)
