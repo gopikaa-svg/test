@@ -6,3 +6,4 @@ ax=10.5
 print(ax)
 name = "gopika"
 print(name)
+age=20
